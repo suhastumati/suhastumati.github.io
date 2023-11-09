@@ -1,1 +1,1 @@
-This is my sample static portfolio website Hosted in github pages
+This is my portfolio website Hosted in github pages
